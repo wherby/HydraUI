@@ -1,0 +1,13 @@
+New log file opened at Wed Oct 25 14:23:36 CST 2017 by 6168@QH-20140701KBDU
+Taking next connection to: 52712
+New client attempting to connect on port: 52713-52712
+  Address = /192.168.137.1:52712
+This client on port 52713 has uuid 69050fe1-fd98-414e-a1b5-bf41a502e508 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-69050fe1-fd98-414e-a1b5-bf41a502e508
+Taking next connection to: 52712
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 6168@QH-20140701KBDU logs at Wed Oct 25 14:26:45 CST 2017, goodbye.
